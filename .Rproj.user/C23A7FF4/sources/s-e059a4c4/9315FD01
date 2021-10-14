@@ -1,0 +1,26 @@
+{
+    "id": "9315FD01",
+    "path": "~/masker/README.Rmd",
+    "project_path": "README.Rmd",
+    "type": "r_markdown",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1634217512883.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "15,13",
+        "scrollLine": "10"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1634217562,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1634217562879,
+    "read_only": false,
+    "read_only_alternatives": []
+}
